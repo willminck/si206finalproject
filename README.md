@@ -36,7 +36,7 @@ on the Fandango Top 50 Celebrity list.
 
 From these links, I crawl into each person's personal
 overview page. Each of those have the urls have the format 
-http://www.fandango.com/people/<uniqueident>/overview/.
+http://www.fandango.com/people/uniqueident/overview/.
 
 Through each of these unique urls, I scrape information
 including the actor's name, birthday, hometown, and three most 
@@ -44,7 +44,7 @@ recent movies. Each actor's information is contained as a
 instance of the Talent class I define before data collection.
 
 Additionally, I crawl to one extra link for each actor,
-http://www.fandango.com/people/<uniqident>/film-credits,
+http://www.fandango.com/people/uniqident/film-credits,
 in order to extract the total amount of movies he or she 
 has appeared in.
 
