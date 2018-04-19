@@ -1,0 +1,14 @@
+Commands available:
+
+appearances
+   Enter this command to see a bar graph presenting the total movie appearances from the current top 5 actors and actresses 
+
+homestates
+   Enter this command to see a bar graph presenting the 5 most popular home states among the current top 50 actors and actresses
+
+homeregions
+   Enter this command to see a pie chart presenting the a percentage-based breakdown of regions where the current top 50 actors and actresses are from
+
+map
+   Enter this command to see an interactive word map presenting exactly where each of the current top 50 actors and actresses are from
+
