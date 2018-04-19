@@ -1,4 +1,0 @@
-OMDB_API_KEY = '819c879b'
-PLOTLY_USERNAME = 'wminck'
-PLOTLY_API_KEY = 'GlxPdfOVCbZ3ESOFiuVD'
-google_places_key = 'AIzaSyBUe7paQBUrK0JeROhCrynUR1f8apOhF54'
